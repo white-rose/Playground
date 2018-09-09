@@ -1,4 +1,4 @@
-package com.crystal;
+package com.crystal.DataStructures;
 
 class Node {
     int key;

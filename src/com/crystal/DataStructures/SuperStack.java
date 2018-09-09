@@ -1,4 +1,4 @@
-package com.crystal;
+package com.crystal.DataStructures;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;
