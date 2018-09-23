@@ -1,4 +1,4 @@
-package com.crystal;
+package com.crystal.Socket;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

@@ -99,7 +99,7 @@ public class RectangularLove {
         Rectangle loveRec2 = new Rectangle(5, 2, 3, 6);
 
 
-        loveRectangle(loveRec, loveRec2);
+        //loveRectangle(loveRec, loveRec2);
 
     }
 
